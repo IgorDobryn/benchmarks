@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark-ips (2.8.2)
+    bson (4.9.0)
+    mongo (2.12.1)
+      bson (>= 4.8.2, < 5.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  benchmark-ips
+  mongo
+
+RUBY VERSION
+   ruby 2.6.6p146
+
+BUNDLED WITH
+   1.17.2
